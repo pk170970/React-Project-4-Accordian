@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://pk170970.github.io/csb-jb3nlo/static/css/main.4b589e59.chunk.css",
+    "main.js": "https://pk170970.github.io/csb-jb3nlo/static/js/main.35bbe1dd.chunk.js",
+    "main.js.map": "https://pk170970.github.io/csb-jb3nlo/static/js/main.35bbe1dd.chunk.js.map",
+    "runtime-main.js": "https://pk170970.github.io/csb-jb3nlo/static/js/runtime-main.42e3ff7e.js",
+    "runtime-main.js.map": "https://pk170970.github.io/csb-jb3nlo/static/js/runtime-main.42e3ff7e.js.map",
+    "static/js/2.250c9920.chunk.js": "https://pk170970.github.io/csb-jb3nlo/static/js/2.250c9920.chunk.js",
+    "static/js/2.250c9920.chunk.js.map": "https://pk170970.github.io/csb-jb3nlo/static/js/2.250c9920.chunk.js.map",
+    "index.html": "https://pk170970.github.io/csb-jb3nlo/index.html",
+    "precache-manifest.e882bd46192b91613d940021e5af5800.js": "https://pk170970.github.io/csb-jb3nlo/precache-manifest.e882bd46192b91613d940021e5af5800.js",
+    "service-worker.js": "https://pk170970.github.io/csb-jb3nlo/service-worker.js",
+    "static/css/main.4b589e59.chunk.css.map": "https://pk170970.github.io/csb-jb3nlo/static/css/main.4b589e59.chunk.css.map",
+    "static/js/2.250c9920.chunk.js.LICENSE.txt": "https://pk170970.github.io/csb-jb3nlo/static/js/2.250c9920.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42e3ff7e.js",
+    "static/js/2.250c9920.chunk.js",
+    "static/css/main.4b589e59.chunk.css",
+    "static/js/main.35bbe1dd.chunk.js"
+  ]
+}
